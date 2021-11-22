@@ -3,5 +3,5 @@ package cmd
 import "fmt"
 
 func Est() {
-	fmt.Println("sub-subdir-v1.0.3")
+	fmt.Println("sub-submodule-v1.0.4")
 }
